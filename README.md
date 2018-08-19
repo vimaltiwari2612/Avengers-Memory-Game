@@ -1,3 +1,3 @@
 # Avengers-Memory-Game
 
-Simple memmory game based on Vanilla JS.
+Simple memory game based on Vanilla JS.
